@@ -1,0 +1,4 @@
+1,Samsung,Galaxy S21,799.99,7
+2,Apple,iPhone 13,999.99,8
+3,Google,Pixel 6,699.99,5
+5,rt,5,7.0,7
